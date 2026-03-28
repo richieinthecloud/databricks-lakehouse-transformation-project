@@ -1,0 +1,10 @@
+In order to create the bronze layer delta tables, all you have to do is drag and drop the csv files directly into Databricks. 
+All of the relevant CSV files can be found in sql-datawarehouse-project/datasets/source_crm & sql-datawarehouse-project/datasets/source_erp.
+
+1.) From the home page, click 'New' in the top left corner, then press 'Add'.
+2.) Select 'Create or modify table'.
+3.) Upload your tabular data file.
+4.) You can edit the 'catalog' and 'schema' sections. You can edit the name of the table, too. 
+5.) Click 'Create'.
+
+This immediately utilizes delta table technology. Allowing for addition, removal and editing of data in your tables. All of those changes are tracked with a feature called 'time travel'.
