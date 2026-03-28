@@ -9,4 +9,4 @@ All of the relevant CSV files can be found in sql-datawarehouse-project/datasets
 
 This immediately utilizes delta table technology. Allowing for addition, removal and editing of data in your tables. All of those changes are tracked with a feature called 'time travel'.
 Databricks does not support stored procedures in the same way SQL Server would, for example. This process takes care of both a DDL script and loading procedure script in one. Databricks is capable of automatically 
-inferring the scheme of your table, so no need to write a script that defines which data types your table is expecting. 
+inferring the schema of your table, so no need to write a script that defines which data types your table is expecting. 
