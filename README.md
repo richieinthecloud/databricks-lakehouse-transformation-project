@@ -1,6 +1,6 @@
 # Data Lakehouse Conversion Project
 
-Welcome to my 2nd complete project!. I am excited to demonstrate the wonders of cloud storage, compute and data cleansing! 
+Welcome to my 2nd complete project! I am excited to demonstrate the wonders of cloud storage, compute and data cleansing! 
 
 Within this project, I will be building a data lakehouse using the medallion architecture and Delta Tables within Databricks. This project utilizes Databricks, ETL processes, and data modeling. 
 The purpose of this project is to demonstrate a powerful yet practical data lakehousing solution for real-life business analytics. From building the lakehouse to generating actual business insights with dashboards within Databricks. This is designed to be a portfolio porject highlighting best practices in both data engineer and data analytics. 
